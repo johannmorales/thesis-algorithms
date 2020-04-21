@@ -1,4 +1,4 @@
-package pe.edu.pucp.johannmorales.thesis.algorithms.genetic.model;
+package pe.edu.pucp.johannmorales.thesis.algorithms.genetic.structures;
 
 import java.util.Arrays;
 import org.apache.commons.lang3.StringUtils;

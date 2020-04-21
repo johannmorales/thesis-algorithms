@@ -1,4 +1,4 @@
-package pe.edu.pucp.johannmorales.thesis.algorithms.greywolf.model;
+package pe.edu.pucp.johannmorales.thesis.algorithms.greywolf.structures;
 
 import static org.assertj.core.api.Assertions.assertThat;
 import static org.assertj.core.api.Assertions.assertThatExceptionOfType;

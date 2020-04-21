@@ -1,4 +1,4 @@
-package pe.edu.pucp.johannmorales.thesis.algorithms.greywolf.model;
+package pe.edu.pucp.johannmorales.thesis.algorithms.greywolf.structures;
 
 import java.math.BigDecimal;
 import java.util.Arrays;

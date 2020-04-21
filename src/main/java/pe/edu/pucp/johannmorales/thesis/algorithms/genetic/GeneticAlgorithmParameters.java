@@ -7,14 +7,14 @@ import lombok.Setter;
 @Setter
 public class GeneticAlgorithmParameters {
 
-    private Long generations;
+  private Long generations;
 
-    private Long populationSize;
+  private Long populationSize;
 
-    private Double ratioSurvive;
+  private Double ratioSurvive;
 
-    private Double ratioRecombination;
+  private Double ratioRecombination;
 
-    private Double ratioMutation;
+  private Double ratioMutation;
 
 }
